@@ -1,13 +1,20 @@
 {
-  "name": "three-ws-assets",
-  "owner": {"name": "nirholas"},
+  "name": "three-ws-assets-cli",
+  "owner": {
+    "name": "nirholas"
+  },
   "description": "Free, keyless 3D asset search for coding agents.",
   "plugins": [
     {
       "name": "three-ws-assets",
-      "source": "./",
+      "source": "./plugins/three-ws-assets",
       "description": "Find CC0 props, rigged characters and motion clips on three.ws and add the GLB plus snippet to your project.",
-      "tags": ["3d", "assets", "glb"]
+      "category": "development",
+      "tags": [
+        "3d",
+        "assets",
+        "glb"
+      ]
     }
   ]
 }
