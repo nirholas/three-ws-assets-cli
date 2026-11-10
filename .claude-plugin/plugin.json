@@ -1,0 +1,10 @@
+{
+  "name": "three-ws-assets",
+  "version": "0.1.0",
+  "description": "Search the free three.ws catalog of CC0 3D props, rigged characters and motion clips and add them to a project with render-ready code.",
+  "author": {"name": "nirholas"},
+  "repository": "https://github.com/nirholas/three-ws-assets-cli",
+  "license": "Apache-2.0",
+  "keywords": ["3d", "glb", "gltf", "cc0", "assets", "threejs"],
+  "homepage": "https://nirholas.github.io/three-ws-assets-cli/"
+}
